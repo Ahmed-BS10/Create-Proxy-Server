@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\proxy-server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\proxy-server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\proxyentity\\proxyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\proxyentity\\proxyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|c:\\users\\ahmed ben sahmaln\\desktop\\create-proxy-server\\proxy-server\\proxy-server\\proxyentity\\proxyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49643E4-C2E4-4352-8D38-05249BA84915}|Proxy-Server\\Proxy-Server.csproj|solutionrelative:proxy-server\\proxyentity\\proxyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Proxy-Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Proxy-Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T17:54:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proxy-Server",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Proxy-Server.csproj",
+              "RelativeDocumentMoniker": "Proxy-Server\\Proxy-Server.csproj",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Proxy-Server.csproj",
+              "RelativeToolTip": "Proxy-Server\\Proxy-Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T17:53:57.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProxyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\ProxyEntity\\ProxyResponse.cs",
+              "RelativeDocumentMoniker": "Proxy-Server\\ProxyEntity\\ProxyResponse.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\ProxyEntity\\ProxyResponse.cs",
+              "RelativeToolTip": "Proxy-Server\\ProxyEntity\\ProxyResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:53:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProxyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\ProxyEntity\\ProxyRequest.cs",
+              "RelativeDocumentMoniker": "Proxy-Server\\ProxyEntity\\ProxyRequest.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\ProxyEntity\\ProxyRequest.cs",
+              "RelativeToolTip": "Proxy-Server\\ProxyEntity\\ProxyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:53:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy-Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Program.cs",
+              "RelativeToolTip": "Proxy-Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:54:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Proxy-Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\appsettings.json",
+              "RelativeToolTip": "Proxy-Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T16:53:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Controllers\\ProxyController.cs",
+              "RelativeDocumentMoniker": "Proxy-Server\\Controllers\\ProxyController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ben Sahmaln\\Desktop\\Create-Proxy-Server\\Proxy-Server\\Proxy-Server\\Controllers\\ProxyController.cs",
+              "RelativeToolTip": "Proxy-Server\\Controllers\\ProxyController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:53:31.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
